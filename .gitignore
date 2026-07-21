@@ -1,0 +1,7 @@
+docs/
+__pycache__/
+*.pyc
+*.pt
+*.csv
+*.png
+.DS_Store
